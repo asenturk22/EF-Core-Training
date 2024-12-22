@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database-First", "Database-First\Database-First.csproj", "{C29B517F-DCE7-4985-BE95-E058B478179C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code-First", "Code-First\Code-First.csproj", "{05FAA91E-6424-49DC-8AF5-1C802A2175CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C29B517F-DCE7-4985-BE95-E058B478179C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29B517F-DCE7-4985-BE95-E058B478179C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29B517F-DCE7-4985-BE95-E058B478179C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29B517F-DCE7-4985-BE95-E058B478179C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FAA91E-6424-49DC-8AF5-1C802A2175CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FAA91E-6424-49DC-8AF5-1C802A2175CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FAA91E-6424-49DC-8AF5-1C802A2175CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FAA91E-6424-49DC-8AF5-1C802A2175CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
